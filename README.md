@@ -1,1 +1,2 @@
 # Detecting-Financial-Fraud-via-Deep-Graph-Representation-Learning-
+A complete MSc Data Science project that investigates how traditional machine learning and graph-based learning (GNNs) can be used to detect fraudulent financial transactions. The project uses the PaySim dataset to compare baseline models (Logistic Regression, Random Forest, XGBoost) with a Graph Convolutional Network (GCN) that models transactional relationships.
